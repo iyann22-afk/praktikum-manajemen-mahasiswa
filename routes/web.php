@@ -4,9 +4,9 @@ use App\Http\Controllers\MahasiswaController;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
-// Redirect root ke login
+// Halaman welcome (default Laravel)
 Route::get('/', function () {
-    return redirect('/login');
+    return view('welcome');
 });
 
 // Route Profile (WAJIB ADA - dari Breeze)
