@@ -107,7 +107,7 @@ Anda tidak perlu mendaftar dari awal. Gunakan akun berikut untuk menguji sistem 
 - **Password:** `password123`
 
 ## 🛠️ Teknologi yang Digunakan
-- **Framework:** Laravel 11
+- **Framework:** Laravel 13
 - **Autentikasi:** Laravel Breeze (Blade)
 - **Styling:** Tailwind CSS
 - **Database:** MySQL
